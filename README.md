@@ -18,7 +18,7 @@ http://www.weather.com.cn/data/city3jdata/provshi/10119.html
 * Get the county code of one certain city
 http://www.weather.com.cn/data/city3jdata/station/1011904.html 
 ‘1011904’ is ‘province code + city code’
-*Get the weather of one certain county
+* Get the weather of one certain county
 http://www.weather.com.cn/data/sk/101190401.html 
 ‘101190401’ is ‘province code + city code + county code.’
 
