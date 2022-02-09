@@ -23,7 +23,7 @@ http://www.weather.com.cn/data/sk/101190401.html
 ‘101190401’ is ‘province code + city code + county code.’
 
 Accepted Criteria:
-*JDK 1.8+ Project (Stream API is required)
-*Build with Maven.
-*Cover all above function requirements.
-*Unit Test (Including both Boundary tests and Exception tests. Success with Junit Assertations.)
+* JDK 1.8+ Project (Stream API is required)
+* Build with Maven.
+* Cover all above function requirements.
+* Unit Test (Including both Boundary tests and Exception tests. Success with Junit Assertations.)
